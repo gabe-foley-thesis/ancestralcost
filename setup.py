@@ -43,7 +43,7 @@ setup(name='ancestralcost',
       packages=['ancestralcost'],
       entry_points={
           'console_scripts': [
-              'PROJECT_NAME = ancestralcost.__main__:main'
+              'ancestralcost = ancestralcost.__main__:main'
           ]
       },
       install_requires=['pandas', 'numpy', 'ete3', 'pyqt5'],

@@ -1,6 +1,5 @@
 LICENSE
 README.md
-pyproject.toml
 setup.py
 ancestralcost/__init__.py
 ancestralcost/__main__.py
