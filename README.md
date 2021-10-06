@@ -11,7 +11,7 @@ It checks for each position in a given ancestor that the presence of ancestral c
 ```
 ## Manual
 ```bash
-  $ git clone https://github.com/gabefoley/ancestralcost
+  $ git clone https://github.com/gabe-foley-thesis/ancestralcost
   $ cd ancestralcost
   $ python setup.py install
 ```
