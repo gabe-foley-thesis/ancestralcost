@@ -17,7 +17,7 @@ It checks for each position in a given ancestor that the presence of ancestral c
 ```
 # Usage
 ```bash
-$ python -m ancestralcost -a <alignment> -t <tree>
+$ ancestralcost -a <alignment> -t <tree>
 ```
 
 # Workflow
